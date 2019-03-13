@@ -1,0 +1,22 @@
+.seo_friendly_wrap .row{
+	margin-bottom:20px;
+}
+.seo_friendly_wrap h2{
+	margin-bottom:20px;
+}
+#adminmenuback {
+       z-index: 1 !important;
+}
+
+.spac-holder-desc {
+	font-size: 90%;
+    margin-top: 6px;
+    display: inline-block;
+}
+
+.add-space-holder {
+    font-size: 85%;
+    color: #00f;
+}
+
+    margin-right: 7px;

@@ -1,0 +1,9 @@
+# файл полностью вставляется в robots.txt с заменой домена
+# поддомен = %DOMAIN%
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: *
+Crawl-delay: 2.0
+Disallow: /fm-cache

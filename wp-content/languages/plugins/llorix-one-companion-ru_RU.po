@@ -1,0 +1,176 @@
+# Translation of Plugins - Llorix One Companion - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Llorix One Companion - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-06 20:37:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Llorix One Companion - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Description of the plugin/theme
+msgid "Add Our team, Our Services and Testimonials sections to Llorix One Lite theme."
+msgstr "Добавить в тему Llorix One Lite  блоки \"Наша команда\" \"Услуги\" и \"Отзывы\"."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/Codeinwp/llorix-one-companion"
+msgstr "https://github.com/Codeinwp/llorix-one-companion"
+
+#. Plugin Name of the plugin/theme
+msgid "Llorix One Companion"
+msgstr "Llorix One Companion"
+
+#: sections/happy-customers-section.php:77 sections/our-team-section.php:72
+#: sections/our-team-section.php:77
+msgid "Avatar"
+msgstr "аватарки"
+
+#: sections/our-team-section.php:27
+msgid "Team"
+msgstr "Команда"
+
+#: sections/our-services-section.php:24
+msgid "Services"
+msgstr "Сервисы"
+
+#: sections/happy-customers-section.php:23
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: llorix-one-companion.php:96
+msgid "<i>Llorix One Companion</i> has been deactivated."
+msgstr "<i>Llorix One Companion</i> был деактивирован."
+
+#: llorix-one-companion.php:76
+msgid "You need to have <a href=\"https://wordpress.org/themes/llorix-one-lite/\" target=\"_blank\">Llorix One Lite</a> theme in order to use Llorix One Companion plugin."
+msgstr "Вы должны иметь тему  <a href=\"https://wordpress.org/themes/llorix-one-lite/\" target=\"_blank\">Llorix One Lite</a>  для того, чтобы использовать плагин Llorix One Companion."
+
+#: inc/settings.php:195
+msgid "Add new testimonial"
+msgstr "Добавить новый отзыв"
+
+#: inc/translations/translations-testimonials-section.php:18
+#: inc/translations/translations-testimonials-section.php:24
+#: inc/translations/translations-testimonials-section.php:30
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Fusce malesuada vulputate faucibus. Integer in hendrerit nisi. Praesent a hendrerit urna. In non imperdiet elit, sed molestie odio. Fusce ac metus non purus sollicitudin laoreet."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo. Fusce malesuada vulputate faucibus. Integer in hendrerit nisi. Praesent a hendrerit urna. In non imperdiet elit, sed molestie odio. Fusce ac metus non purus sollicitudin laoreet."
+
+#: inc/translations/translations-testimonials-section.php:17
+#: inc/translations/translations-testimonials-section.php:23
+#: inc/translations/translations-testimonials-section.php:29
+msgid "Lorem ipsum"
+msgstr "Lorem ipsum"
+
+#: inc/translations/translations-testimonials-section.php:16
+#: inc/translations/translations-testimonials-section.php:22
+#: inc/translations/translations-testimonials-section.php:28
+msgid "Happy Customer"
+msgstr "Довольные клиенты"
+
+#: inc/settings.php:167 sections/happy-customers-section.php:7
+msgid "Happy Customers"
+msgstr "Довольные клиенты"
+
+#: inc/settings.php:160
+msgid "Disable the Testimonials section?"
+msgstr "Отключить блок Отзывы?"
+
+#: inc/settings.php:147
+msgid "Testimonials section"
+msgstr "Блок отзывы"
+
+#: inc/settings.php:134
+msgid "Add new team member"
+msgstr "Добавить нового члена команды"
+
+#: inc/translations/translations-team-section.php:27
+msgid "Business Development"
+msgstr "Развитие бизнеса"
+
+#: inc/translations/translations-team-section.php:26
+msgid "Linda Guthrie"
+msgstr "Линда Гатри"
+
+#: inc/translations/translations-team-section.php:22
+msgid "Account Manager"
+msgstr "Менеджер по работе с клиентами"
+
+#: inc/translations/translations-team-section.php:21
+msgid "Tonya Garcia"
+msgstr "Тоня Гарсия"
+
+#: inc/translations/translations-team-section.php:17
+msgid "Founder & CEO"
+msgstr "Основатель и генеральный директор"
+
+#: inc/translations/translations-team-section.php:16
+msgid "Albert Jacobs"
+msgstr "Альберт Якобс"
+
+#: inc/settings.php:122
+msgid "Team Background"
+msgstr "Фоновый рисунок блока Наша комманда"
+
+#: inc/settings.php:96 sections/our-team-section.php:7
+msgid "Our Team"
+msgstr "Наша команда"
+
+#: inc/settings.php:89
+msgid "Disable the Team section?"
+msgstr "Отключить блок Наша команда?"
+
+#: inc/settings.php:76
+msgid "Team section"
+msgstr "Блок Наша команда"
+
+#: inc/settings.php:61
+msgid "Add new service box"
+msgstr "Добавить бокс услуг"
+
+#: inc/translations/translations-services-section.php:19
+#: inc/translations/translations-services-section.php:25
+#: inc/translations/translations-services-section.php:31
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo."
+
+#: inc/translations/translations-services-section.php:18
+#: inc/translations/translations-services-section.php:24
+#: inc/translations/translations-services-section.php:30
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#: inc/settings.php:48 inc/settings.php:111 inc/settings.php:182
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/settings.php:44 inc/settings.php:107 sections/our-services-section.php:8
+#: sections/our-team-section.php:9
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: inc/settings.php:37 inc/settings.php:100 inc/settings.php:171
+msgid "Main title"
+msgstr "Главный заголовок"
+
+#: inc/settings.php:33 sections/our-services-section.php:7
+msgid "Our Services"
+msgstr "Наши услуги"
+
+#: inc/settings.php:26
+msgid "Disable the Services section?"
+msgstr "Отключить блок Наши услуги?"
+
+#: inc/settings.php:13
+msgid "Services section"
+msgstr "Блок Наши услуги"
